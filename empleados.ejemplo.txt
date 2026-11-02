@@ -1,0 +1,14 @@
+
+___*LISTA DE EMPLEADOS*___
+
+- Número de empleado: 1
+- Nombre del Empleado: nicolas
+- RFC: RFC-DE-EJEMPLO
+- Dias Trabajados: 12
+- Localidad: 1
+- Sueldo base: 2400
+- Sueldo Neto: 3360.00
+- Deducciones: 739.20
+- Percepciones: 672.00
+- Sueldo Final: 3292.80
+

@@ -1,0 +1,26 @@
+# Binarios y build
+*.o
+*.obj
+*.exe
+enigmacode
+programacion
+build/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Datos generados al ejecutar
+empleados.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
